@@ -1,0 +1,19 @@
+{
+  "name": "0hd-tgbot",
+  "version": "0.0.1",
+  "description": "experimental telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0HD/telegraf-bot.git"
+  },
+  "author": "0HD",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/0HD/telegraf-bot/issues"
+  },
+  "homepage": "https://github.com/0HD/telegraf-bot#readme"
+}
